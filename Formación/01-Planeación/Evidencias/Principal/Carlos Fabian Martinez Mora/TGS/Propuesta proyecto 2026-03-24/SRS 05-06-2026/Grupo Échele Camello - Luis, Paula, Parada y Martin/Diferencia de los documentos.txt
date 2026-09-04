@@ -1,0 +1,6 @@
+La principal diferencia entre la versión lite y la versión completa es la siguiente:
+La versión lite tiene 40 RF y 10 RNF que es hasta donde se nos indico (10 RF por persona y 10 RNF en general).
+El documento completo tiene 63 RF que son los que se plantearon para el proyecto y para que esté sea funcional,
+además de 30 RNF que de igual forma se escogieron para que complementen a los RF, aún falta revisar por completo
+que cada RF cumpla con todo lo que se necesita y que esten bien conectados unos con los otros, pero el documento
+se a revisado casi en su totalidad en un 85%.

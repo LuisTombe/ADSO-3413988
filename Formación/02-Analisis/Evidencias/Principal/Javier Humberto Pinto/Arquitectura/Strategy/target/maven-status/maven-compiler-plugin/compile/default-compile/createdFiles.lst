@@ -1,0 +1,7 @@
+com\mycompany\strategy\PagoStrategy.class
+com\mycompany\strategy\PagoPaypal.class
+com\mycompany\strategy\PagoTransferencia.class
+com\mycompany\strategy\CarritoCompras.class
+com\mycompany\strategy\PagoTarjeta.class
+com\mycompany\strategy\Strategy.class
+com\mycompany\strategy\Inferfaz.class
